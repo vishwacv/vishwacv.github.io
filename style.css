@@ -418,11 +418,21 @@ a {
     max-width: 80%;
 }
 
+.flex{
+    display:flex;
+}
+
+.expimg-width{
+    width: 20%;
+}
 @media only screen and (max-width: 960px) {
 
     .expimg {
     max-width: 100%;}
 
+    .expimg-width{
+    width: 100%;
+}
     .p-creative {
         max-width: 40%;
     }
