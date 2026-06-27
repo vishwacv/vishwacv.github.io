@@ -401,6 +401,12 @@ a {
 .creative {
     width: 33%;
 }
+.creative-s{
+    width: 32%;
+}
+.creative-w{
+    width: 68%;
+}
 
 .full-img {
     width: 100%;
@@ -443,6 +449,12 @@ a {
     }
 
     .creative {
+        width: 100%;
+    }
+    .creative-s{
+        width: 100%;
+    }
+    .creative-w{
         width: 100%;
     }
 
