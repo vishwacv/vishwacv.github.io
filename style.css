@@ -407,6 +407,13 @@ a {
 .creative-w{
     width: 68%;
 }
+.creative-s1{
+    width: 36%;
+}
+.creative-w1{
+    width: 64%;
+}
+
 
 .full-img {
     width: 100%;
@@ -457,7 +464,12 @@ a {
     .creative-w{
         width: 100%;
     }
-
+    .creative-s1{
+        width: 100%;
+    }
+    .creative-w1{
+        width: 100%;
+    }
     .f-nav {
         align-items: flex-start;
     }
